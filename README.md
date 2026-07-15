@@ -21,8 +21,8 @@ Analyser les données transactionnelles d'un site e-commerce (Online Retail Data
 |---|---|
 | Source | [UCI Machine Learning Repository — Online Retail](https://archive.ics.uci.edu/ml/datasets/Online+Retail) |
 | Période | Décembre 2010 – Décembre 2011 |
-| Lignes brutes | ~541 000 transactions |
-| Après nettoyage | ~392 000 lignes valides |
+| Lignes brutes | 541 000 transactions |
+| Après nettoyage | 392 000 lignes valides |
 | Clients distincts | 4 339 |
 | Commandes uniques | 18 536 |
 | Produits distincts | 3 665 |
@@ -137,4 +137,4 @@ Ou directement sur Google Colab :
 
 ---
 
-*Projet académique — M2 Data Analytics, 2026*
+*Projet académique — M2 Data Marketing Manager, 2026*
