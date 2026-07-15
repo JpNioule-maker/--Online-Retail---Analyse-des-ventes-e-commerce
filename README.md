@@ -137,4 +137,4 @@ Ou directement sur Google Colab :
 
 ---
 
-*Projet académique — M2 Data Marketing Manager, 2026*
+*Projet académique — Msc Data Marketing Manager, 2026*
