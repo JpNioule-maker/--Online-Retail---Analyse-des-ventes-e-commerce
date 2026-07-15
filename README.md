@@ -1,6 +1,6 @@
 # 🛒 Online Retail — Analyse des ventes e-commerce
 
-> Projet collectif réalisé dans le cadre du M2 Data Analytics (2026)  
+> Projet collectif réalisé dans le cadre du Msc Data Marketing Manager (2026)  
 > **Équipe :** Yasmine · Chaimaa · Juan David Gutierrez · Rayane · Jean Philippe
 
 ---
@@ -132,8 +132,8 @@ Ou directement sur Google Colab :
 | Yasmine | EDA & Visualisations |
 | Chaimaa | Préparation des données |
 | Juan David Gutierrez | Régression & ANOVA |
-| Rayane | Clustering K-means |
-| Jean Philippe | Rapport & Recommandations |
+| Jean Philippe | Clustering K-means |
+| Rayanne | Rapport & Recommandations |
 
 ---
 
